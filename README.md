@@ -6,5 +6,5 @@ edef
 utti
 u
 o
-hث
+h
 iohk
